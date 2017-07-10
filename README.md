@@ -29,6 +29,12 @@ use the function can from right to left
         self.source.presentModal(duration: 0.3, anim: .rightToLeft, destinationViewContoller: self.destination)
     }
 
+config the seque for storyboard
+
+---
+![screenshot2](https://raw.githubusercontent.com/CaiJingLong/ios-viewctl-modal-anim/master/img/storyboard-segue.png "screenshot2")
+---
+
 ## LICENSE
 Copyright 2017 JingLong Cai
 
